@@ -231,7 +231,7 @@ module.exports = function (app) {
           lengthCutting: { type: Number, default: 0 },
         },
         shrug: {
-          borderAttachment: { type: Number, default: 0 },
+          borderAttachment: { type: String },
           sleeveDesign: {
             fullSleeve: { type: Number, default: 0 },
             halfSleeve: { type: Number, default: 0 },
