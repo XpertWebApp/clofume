@@ -1,0 +1,235 @@
+{
+  "category": "women",
+  "subCategory": "lehenga",
+  "lehenga": {
+    "top": {
+      "blouseCuttingstyle": {
+        "singlekattori": 299,
+        "doubleKattori": 299,
+        "princesscut": 299,
+        "alitcut": 299,
+        "plaincut": 299,
+        "crossstraightcut": 299
+      },
+      "zip_hook": {
+        "frontHook": 299,
+        "backHook": 299,
+        "sideZip": 299,
+        "frontZip": 299,
+        "backZip": 299
+      },
+      "sleeveLength": {
+        "shortSleeve": 299,
+        "belowElbowLength": 299,
+        "aboveElbowLength": 299,
+        "fullLength": 299,
+        "noSleeve": 299
+      },
+      "blousePiping": {
+        "sareeColor": 299,
+        "blouseColor": 299
+      },
+      "doori": 299,
+      "lining": 299,
+      "padded_cups": 299,
+      "design": "imageLink"
+    },
+
+    "bottom": {
+      "waistBelt": {
+        "doori": 299,
+        "button": 299
+      },
+      "borderAttachement": {
+        "image": "imageLink",
+        "price": 299
+      },
+      "lining": {
+        "cotton": 299,
+        "polyster": 299
+      },
+      "canCan": 299,
+      "skirtDesign": 299
+    },
+
+    "duppataCustomization": {
+      "zigZag": 299,
+      "borderAttachment": 299,
+      "lengthCutting": 299
+    },
+
+    "shrug": {
+      "sleeveLength": {
+        "noSleeve": 299,
+        "fullSleeve": 299,
+        "belowSleeve": 299,
+        "aboveSleeve": 299,
+        "short": 299
+      },
+      "borderAttachment": 299
+    }
+  },
+  "anarkali": {
+    "top": {
+      "cuttingStyle": {
+        "princessCut": 399,
+        "plainCut": 399
+      },
+      "sleeveLength": {
+        "shortSleeveLength": 399,
+        "fullSleeveLength": 399,
+        "belowElbowLength": 399,
+        "aboveElbowLength": 399,
+        "noSleeveLength": 399
+      },
+      "paddedCups": 300,
+      "piping": 70,
+      "sleeveDesign": 399,
+      "frontDesign": 399,
+      "backDesign": 399,
+      "borderForCollarAttachment": 399
+    },
+    "bottomFlare": {
+      "lining": { "cotton": 89, "polyster": 150 },
+      "flareLength": {
+        "ankleLength": 399,
+        "teaLength": 399,
+        "floorLength": 399
+      },
+      "flareDesign": 399,
+      "borderAttachment": 399,
+      "canCan": 399
+    },
+    "duppataCustomization": {
+      "zigZag": 399,
+      "borderAttachment": 399,
+      "lengthCutting": 399
+    },
+    "shrug": {
+      "borderAttachment": "link",
+      "sleeveDesign": {
+        "fullSleeve": 399,
+        "halfSleeve": 399
+      }
+    },
+    "pant": {
+      "types": {
+        "patiyala": 399,
+        "cigarete": 399,
+        "normal": 399
+      },
+      "waistType": {
+        "elastic": 399,
+        "normal": 399,
+        "doori": 399
+      },
+      "stitching": 399,
+      "pantDesign": 399
+    }
+  },
+  "gown": {
+    "top": {
+      "cuttingStyle": {
+        "princessCut": 399,
+        "plainCut": 399
+      },
+      "SleeveLength": {
+        "shortSleeveLength": 399,
+        "fullSleeveLength": 399,
+        "belowElbowLength": 399,
+        "aboveElbowLength": 399,
+        "noSleeveLength": 399
+      },
+      "paddedCups": 300,
+      "piping": 70,
+      "sleeveDesign": 399,
+      "frontDesign": 399,
+      "backDesign": 399,
+      "borderForCollarAttachment": 399
+    },
+    "bottomFlare": {
+      "flareLength": {
+        "ankleLength": 399,
+        "teaLength": 399,
+        "floorLength": 399
+      },
+      "lining": { "cotton": 89, "polyster": 150 },
+      "flareDesign": 399,
+      "borderAttachment": 399,
+      "canCan": 399
+    }
+  },
+  "salwar_kurti": {
+    "top": {
+      "cuttingStyle": {
+        "princessCut": 399,
+        "plainCut": 399
+      },
+      "sleeveLength": {
+        "shortSleeveLength": 399,
+        "fullSleeveLength": 399,
+        "belowElbowLength": 399,
+        "aboveElbowLength": 399,
+        "noSleeveLength": 399
+      },
+      "paddedCups": 399,
+      "piping": 399,
+      "SleeveDesign": 399,
+      "frontDesign": 399,
+      "backDesign": 399,
+      "borderForCollarAttachment": 399
+    },
+    "bottomFlare": {
+      "flareLength": {
+        "ankleLength": 399,
+        "teaLength": 399,
+        "floorLength": 399
+      },
+      "lining": { "cotton": 399, "polyster": 399 },
+      "flareDesign": 399,
+      "borderAttachment": 399,
+      "canCan": 399
+    },
+    "duppataCustomization": {
+      "zigZig": 399,
+      "borderAttachment": 399,
+      "lengthCutting": 399
+    },
+    "shug": {
+      "sleeveDesign": {
+        "fullSleeve": 399,
+        "halfSleeve": 399
+      },
+      "borderAttachment": "link"
+    },
+    "pant": {
+      "types": {
+        "patiyala": 399,
+        "cigarete": 399,
+        "normal": 399
+      },
+      "waistType": {
+        "elastic": 399,
+        "normal": 399,
+        "doori": 399
+      },
+      "stitching": 399,
+      "pantDesign": 399
+    }
+  },
+  "skirt": {
+    "bottom": {
+      "lining": {
+        "cotton": 399,
+        "polyster": 399
+      },
+      "waistBelt": {
+        "doori": 399,
+        "button": 399
+      },
+      "canCan": 399,
+      "borderAttachment": "link",
+      "skirtDesign": 399
+    }
+  }
+}
